@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    color: #313b44;
+    font-size: large;
+    font-weight: 700;
+}
+a:hover{
+    color: #4b5966;
+}
+
+body{
+    background-color: #e6e8ea;
+}
